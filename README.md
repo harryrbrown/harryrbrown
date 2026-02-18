@@ -1,10 +1,13 @@
+# 🇬🇧🇨🇦
+
+<!--
 ### Hey! 👋🏻
 
 Welcome to my GitHub profile.
 
 I'm a software developer and 2020 graduate from Imperial College London. After working in a number of internship and full-time engineering positions in the UK 🇬🇧, I sought a new life abroad, and moved to Canada 🇨🇦 in 2022. 
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/hryrbrn/), or find me on a few other platforms [here](https://bento.me/harrybrown).
+-->
 
 <!--
 **harryrbrown/harryrbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
